@@ -80,7 +80,7 @@ WS2812B LED Strip:
 MicroPython on Pico 2 W includes all necessary libraries:
 - ✅ `network` - Wi-Fi connectivity
 - ✅ `ntptime` - NTP time synchronization
-- ✅ `neopixel` - WS2812B control
+- ✅ `neopixel` - WS2812B control (LEDs)
 - ✅ `machine` - Hardware access
 - ✅ `time` - Time functions
 
