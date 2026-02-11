@@ -336,10 +336,6 @@ progress = elapsed / duration
 num_leds_lit = progress * NUM_LEDS
 ```
 
-## License
-
-MIT License - Free to use and modify
-
 ## Acknowledgments
 
 Built for improving productivity during study sessions at Texas A&M University, College Station.
